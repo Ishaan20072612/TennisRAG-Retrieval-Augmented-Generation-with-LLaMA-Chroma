@@ -1,1 +1,1 @@
-# Tennis_Project
+# TennisRAG: Retrieval-Augmented Generation with LLaMA & Chroma
